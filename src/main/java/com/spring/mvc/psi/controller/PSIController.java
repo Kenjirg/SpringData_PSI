@@ -1,6 +1,5 @@
 package com.spring.mvc.psi.controller;
 
-
 import com.spring.mvc.psi.entities.Product;
 import com.spring.mvc.psi.entities.Purchase;
 import com.spring.mvc.psi.entities.Sales;
